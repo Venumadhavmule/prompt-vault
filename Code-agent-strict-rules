@@ -1,0 +1,5 @@
+- While reading any file(s), read it completely from line 0 to the line end. Do not skip anything. Do not hallucinate.
+
+- While writing code, first understand the existing method/function/logic. Do not delete code blindly. Make changes surgically only where necessary with best practices as an elite engineer.
+
+- Make Sure you stick with the whatever my cocnerns and the fixes that needed for that usecase, don't blindly remove any other code or functionality or any workflows. at this time you should focus on the exact files and the logic where need to be figure out the smoking gun root cause then stick with that instead of deleting non related or useful codebase.
